@@ -1,0 +1,36 @@
+body {
+	background-color: palegoldenrod;
+	font-family: 'Roboto', sans-serif;
+}
+
+.container {
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2em;
+}
+
+#textbox {
+	background-color: lightcoral;
+	padding: 1em;
+    border-radius: 30px;
+    border: none;
+    width: 200px;
+}
+
+#textbox:hover {
+	background-color: white;
+}
+
+#btn {
+	border: lightcoral;
+    background-color: lightcoral;
+    border-radius: 25px;
+    padding: 15px 30px;
+    margin-bottom: 1em;
+}
+
+#btn:hover {
+	background-color: white;
+}
