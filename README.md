@@ -4,7 +4,7 @@ You can see website here: https://shamansarii.github.io/local-storage/
 
 ### WORKSHOP
 
- 
+ 1. The app is a soft local storage.Type a any name save and refresh page show a name in browser.
 
 ### INGREDIENTS
 
