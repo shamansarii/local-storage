@@ -15,3 +15,4 @@ The CDNs of all ingredients, along with `script.js` and `style.css` files, have 
 
 ### SCREENSHOT
 
+![local-storage](https://user-images.githubusercontent.com/46775349/55642592-53b75b80-57ea-11e9-8e36-412b4caa1649.png).
